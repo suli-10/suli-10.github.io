@@ -64,91 +64,82 @@
 
 8.
 
-![image text](
+![image text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-23-15.png)
 
->h
+>Aqui escribimos el mensaje que queremos que aparezca al guardar los cambios y guardamos el archive y le damos al TICK que hay arriba a la derecha o tan solo cerramos el archivo después de guardar.
 
 ***
 
 9.
 
-![image text](
+![image text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-24-35.png)
 
->h
+>Nos da la opción de poder publicar la rama del repositorio en github.
 
 ***
 
 10.
 
-![image text](
+![image text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-24-51.png)
 
->h
+>Y seleccionamos si queremos que sea un respositorio público o uno privado.
 
 ***
 
 11.
 
-![image text](
+![image text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-25-18.png)
 
->h
+>Abajo a la derecha nos aparece el mensaje de que se ha publicado correctamente.
 
 ***
 
 12.
 
-![image text](
+![image text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-25-30.png)
 
->h
+>Si entramos en nuestra cuenta de github veremos que ya temenos creado el repositorio ahi.
 
 ***
 
 13.
 
-![image text](
+![image text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-25-31.png)
 
->h
+>Desde VS Code se puede clonar un repositorio, solo hay que darle donde pone “Clonar un repositorio Git…”.
 
 ***
 
 14.
 
-![image text](
+![image text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-25-32.png)
 
->h
+>Y aqui nos da la opción de elegir el repositorio que queremos clonar.
 
 ***
 
 15.
 
-![image text](
+![image text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-25-33.png)
 
->h
+>Y nos pide un directorio donde queremos guardarlo.
 
 ***
 
 16.
 
-![image text](
+![image text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-25-34.png)
 
->h
+>Esperamos a que termine de clonar el repositorio, hasta que nos lo muestre después del mensaje abajo a la derecha.
 
 ***
 
 17.
 
-![image text](
+![image text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-25-35.png)
 
->h
-
-
+>Una vez terminado vemos que ya se ha creado el repositorio clonado.
 
 
 
-
-
-
-
-
-
-
-
+***Gracias por visitar mi web y espero que el tutorial les haya sido de gran ayuda***
