@@ -1,4 +1,4 @@
-#Comandos básicos de Git y VS Code
+# Comandos básicos de Git y VS Code
 
 En esta página os voy a mostrar diferentes comandos básicos para aprende a usar Git junto con Github. \n
 
