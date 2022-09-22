@@ -4,6 +4,6 @@ En esta página os voy a mostrar diferentes comandos básicos para aprende a usa
 
 En este documento PDF os mostraré algunos pasos para poder sincronizar repositorios y clonarlos con Visual Studio Code.
 
-1. \n
+1.
 
-<img src="../imagenes/Captura de pantalla de 2022-09-21 09-08-36.png>
+![image text](https://github.com/suli-10/suli-10.github.io/blob/main/Captura%20de%20pantalla%20de%202022-09-21%2009-08-36.png)
