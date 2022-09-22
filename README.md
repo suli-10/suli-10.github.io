@@ -141,5 +141,10 @@
 >Una vez terminado vemos que ya se ha creado el repositorio clonado.
 
 
+*Aquí les dejo un documento PDF con todos los pasos:*
+[Git y VS Code.pdf](https://github.com/suli-10/suli-10.github.io/files/9629182/Git.y.VS.Code.pdf)
 
-***Gracias por visitar mi web y espero que el tutorial les haya sido de gran ayuda***
+
+
+
+***Gracias por visitar mi web y espero que el tutorial les haya sido de gran ayuda.***
