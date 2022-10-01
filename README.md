@@ -144,6 +144,11 @@
 *Aquí les dejo un documento PDF con todos los pasos:*
 [Git y VS Code.pdf](https://github.com/suli-10/suli-10.github.io/files/9629182/Git.y.VS.Code.pdf)
 
+***
+***
+**En las próximas imágenes os voy a explicar el funcionamiento de **Fork** y **Pull Request**, vamos a ello:**
+
+
 
 
 
