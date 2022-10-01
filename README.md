@@ -148,8 +148,45 @@
 ***
 **En las próximas imágenes os voy a explicar el funcionamiento de **Fork** y **Pull Request**, vamos a ello:**
 
+1.
+
+![image text](https://github.com/suli9828/suli-10.github.io/blob/main/Fork%20y%20pull%20request/imagenes/1.png)
+
+>Vamos a hacer Fork a un repositorio de un compañero en GitHub, primero entramos en la página principal de nuestro compañero y escogemos el repositorio al que le queremos hacer Fork.
+
+***
+
+2.
+
+![image text](https://github.com/suli9828/suli-10.github.io/blob/main/Fork%20y%20pull%20request/imagenes/2.png)
+
+>Una vez dentro del repositorio, en la esquina superior derecha pulsamos el botón de “Fork”.
+
+***
+
+3.
+
+![image text](https://github.com/suli9828/suli-10.github.io/blob/main/Fork%20y%20pull%20request/imagenes/3.png)
+
+>Aquí le damos un nombre al repositorio que aparecerá en nuestra rama una vez bifurcado y le damos a “Create fork”.
+
+***
+
+4.
+
+![image text](https://github.com/suli9828/suli-10.github.io/blob/main/Fork%20y%20pull%20request/imagenes/1.png)
+
+>Cuando entramos en nuestra rama vemos que ya temenos el repositorio que hemos bifurcado.
+
+***
+>La diferencia entre Git Clone y Fork es que cuando utilizamos Git Clone podemos copiar el código de un repositorio en el entorno local, pero no va a estar conectado al repositorio de origen (remoto), mientras que sí usamos Fork, sí que está conectado.
+
+>Las Pull Request nos permiten informar a otros sobre los cambios que hemos enviado a una rama en un repositorio en GitHub.
 
 
+*Aquí les dejo un documento PDF con todos los pasos:*
+[Fork y Pull Request.pdf](https://github.com/suli9828/suli-10.github.io/blob/main/Fork%20y%20pull%20request/Fork%20y%20Pull%20Request.pdf)
 
+***
 
 ***Gracias por visitar mi web y espero que el tutorial les haya sido de gran ayuda.***
