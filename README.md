@@ -7,7 +7,7 @@
 1.
 
 
-![alt text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-08-36.png)
+![Alt text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-08-36.png)
 
 >Primero creamos una carpeta que utilizaremos para inicializar el repositorio en ella con “git init”.
 
@@ -16,7 +16,7 @@
 2.
 
 
-![alt text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-19-44.png)
+![Alt text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-19-44.png)
 
 >Añadimos un usuario y un correo para poder conectarnos con github, para ello usaremos los comandos:
 - git config --global user.name “nombreUsuario”
