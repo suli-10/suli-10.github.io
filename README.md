@@ -6,7 +6,8 @@
 
 1.
 
-(img src:"h"ttps://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-08-36.png")
+
+![alt text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-08-36.png)
 
 >Primero creamos una carpeta que utilizaremos para inicializar el repositorio en ella con “git init”.
 
@@ -14,7 +15,8 @@
 
 2.
 
-(img src:"h"ttps://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-19-44.png")
+
+![alt text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-19-44.png)
 
 >Añadimos un usuario y un correo para poder conectarnos con github, para ello usaremos los comandos:
 - git config --global user.name “nombreUsuario”
@@ -24,7 +26,8 @@
 
 3.
 
-(img src:"https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-20-16.png")
+
+![alt text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-20-16.png)
 
 >Una vez hecho lo anterior abrimos la carpeta que acabamos de crear con VS Code.
 
@@ -32,7 +35,8 @@
 
 4.
 
-(img src:"https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-20-26.png")
+
+![alt text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-20-26.png)
 
 >Seleccionamos la carpeta que acabamos de crear.
 
@@ -40,7 +44,7 @@
 
 5.
 
-![image text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-20-41.png)
+![alt text](https://github.com/suli-10/suli-10.github.io/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-09-21%2009-20-41.png)
 
 >Y vemos que nos detecta que hemos inicializado un repositorio en dicha carpeta porque nos da la opción de clonar el repositorio.
 
